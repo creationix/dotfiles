@@ -28,3 +28,9 @@
 [submodule "vim/pack/creationix/start/vim-colorscheme-thaumaturge"]
 	path = vim/pack/creationix/start/vim-colorscheme-thaumaturge
 	url = https://github.com/baines/vim-colorscheme-thaumaturge.git
+[submodule "vim/pack/creationix/start/nim.vim"]
+	path = vim/pack/creationix/start/nim.vim
+	url = https://github.com/zah/nim.vim.git
+[submodule "vim/pack/creationix/start/dracula-vim"]
+	path = vim/pack/creationix/start/dracula-vim
+	url = https://github.com/dracula/vim.git
