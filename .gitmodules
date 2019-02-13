@@ -19,3 +19,12 @@
 [submodule "vim/pack/creationix/dart-vim-plugin"]
 	path = vim/pack/creationix/start/dart-vim-plugin
 	url = https://github.com/dart-lang/dart-vim-plugin.git
+[submodule "vim/pack/creationix/start/vim-crystal"]
+	path = vim/pack/creationix/start/vim-crystal
+	url = https://github.com/rhysd/vim-crystal.git
+[submodule "vim/pack/creationix/start/swift.vim"]
+	path = vim/pack/creationix/start/swift.vim
+	url = https://github.com/keith/swift.vim.git
+[submodule "vim/pack/creationix/start/vim-colorscheme-thaumaturge"]
+	path = vim/pack/creationix/start/vim-colorscheme-thaumaturge
+	url = https://github.com/baines/vim-colorscheme-thaumaturge.git
