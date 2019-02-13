@@ -34,3 +34,6 @@
 [submodule "vim/pack/creationix/start/dracula-vim"]
 	path = vim/pack/creationix/start/dracula-vim
 	url = https://github.com/dracula/vim.git
+[submodule "vim/pack/creationix/start/vim-railscasts-theme"]
+	path = vim/pack/creationix/start/vim-railscasts-theme
+	url = https://github.com/jpo/vim-railscasts-theme.git
