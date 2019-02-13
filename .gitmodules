@@ -1,3 +1,21 @@
 [submodule "vim/pack/shapeshed/start/vim-airline"]
 	path = vim/pack/creationix/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "vim/pack/creationix/start/vim-javascript"]
+	path = vim/pack/creationix/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "vim/pack/creationix/start/vim-cpp-enhanced-highlight"]
+	path = vim/pack/creationix/start/vim-cpp-enhanced-highlight
+	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
+[submodule "vim/pack/creationix/start/vim-orbital"]
+	path = vim/pack/creationix/start/vim-orbital
+	url = https://github.com/fcpg/vim-orbital
+[submodule "vim/pack/creationix/start/vim-colors-tone"]
+	path = vim/pack/creationix/start/vim-colors-tone
+	url = https://github.com/cseelus/vim-colors-tone.git
+[submodule "vim/pack/creationix/start/vim-clang"]
+	path = vim/pack/creationix/start/vim-clang
+	url = https://github.com/justmao945/vim-clang.git
+[submodule "vim/pack/creationix/dart-vim-plugin"]
+	path = vim/pack/creationix/start/dart-vim-plugin
+	url = https://github.com/dart-lang/dart-vim-plugin.git
