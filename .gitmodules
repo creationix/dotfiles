@@ -37,3 +37,9 @@
 [submodule "vim/pack/creationix/start/vim-railscasts-theme"]
 	path = vim/pack/creationix/start/vim-railscasts-theme
 	url = https://github.com/jpo/vim-railscasts-theme.git
+[submodule "vim/pack/creationix/start/completor.vim"]
+	path = vim/pack/creationix/start/completor.vim
+	url = https://github.com/maralla/completor.vim.git
+[submodule "vim/pack/creationix/start/zig.vim"]
+	path = vim/pack/creationix/start/zig.vim
+	url = https://github.com/ziglang/zig.vim.git
